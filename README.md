@@ -31,6 +31,6 @@ policy-map global_policy      \
 
 # ОТВЕТ:
 
-binet5.pkt
+[binet5.pkt](https://github.com/jdm2us-art/innet5/blob/main/binet5.pkt)
 
 <img width="608" height="376" alt="bi1" src="https://github.com/user-attachments/assets/fea53659-1c01-4140-a54e-fcc3d167ad04" />
